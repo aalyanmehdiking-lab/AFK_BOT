@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "the_second_goat-NIHD.aternos.me:18551",
+    "port": 18551,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
